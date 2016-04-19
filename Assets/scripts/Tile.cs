@@ -27,6 +27,7 @@ public class Tile : MonoBehaviour {
 	
 	}
 
+	// neighbours is a List of Tiles adjacent to this Tile
 	public void generateNeighbours(List<List<Tile>> map) {
 		// above
 		if (gridPosition.y > 0) {
