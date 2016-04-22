@@ -93,6 +93,8 @@
      <Compile Include="Assets\scripts\Item.cs" />
      <Compile Include="Assets\scripts\MapGenerator.cs" />
      <Compile Include="Assets\scripts\Menu\MenuScript.cs" />
+     <Compile Include="Assets\scripts\Models\MapModel.cs" />
+     <Compile Include="Assets\scripts\Models\TileModel.cs" />
      <Compile Include="Assets\scripts\Player.cs" />
      <Compile Include="Assets\scripts\Room.cs" />
      <Compile Include="Assets\scripts\Tile.cs" />
